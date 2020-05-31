@@ -1,0 +1,1 @@
+{"jobID":"65865eb6-5904-0e29-7758-1786c7a4e346","spec":{"type":"policy","cause":{"Message":"","User":"abermudez \u003cafbs64@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfo":"glob:3.2.*"},"remove":{}}}},"result":null}
